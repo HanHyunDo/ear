@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>headphone_487.jpg</filename>
+	<path>C:\Users\i\Desktop\windows_v1.8.0\windows_v1.8.0\data\headphone_487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>199</ymin>
+			<xmax>510</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
